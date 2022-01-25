@@ -1,5 +1,8 @@
 # FLASK-API-Customized-
-use https://www.npoint.io/docs/7355cdcb6317e77351e3 to create your own JSON data 
+use https://www.npoint.io/docs/7355cdcb6317e77351e3 to create your own JSON data.
+
+
+
 1 way to run it is the venv http path followed by /guess/variable this is asking for you to type in a name and the API calls will guess if your gender and age.
 
 
